@@ -146,7 +146,6 @@ body {
 }
 
 header {
-  border: 2px solid magenta;
   display: flex;
   justify-content: space-between;
   padding: 6% 4%;
